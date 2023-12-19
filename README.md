@@ -9,7 +9,7 @@
 Невронните мрежи за изградени по следния начин: 
 ![Neural Network](neural_network.jpg)
 
-
+Допълнителни информация за домашното можете да намерите тук: [link](https://docs.google.com/document/d/1r8NKjcH9MgW0Gb7GDvRwABqOn6-0J2ttXRrAy-AN8Go/edit?usp=sharing)
 
 #### 1. Входен слой
 - С `X` означаваме входния вектор.
