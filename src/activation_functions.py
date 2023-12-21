@@ -4,11 +4,10 @@ def sigmoid(matrix):
 def softmax(matrix):
     pass
 
-def tahn(matrix):
+def tanh(matrix):
     pass
 
 def relu(matrix):
-    return max(0, matrix)
     pass
 
 def flatten(matrix):
